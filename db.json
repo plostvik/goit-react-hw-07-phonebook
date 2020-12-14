@@ -1,19 +1,24 @@
 {
   "contacts": [
     {
-      "name": "Остап234",
+      "name": "Rosie Simpson",
       "number": "123",
-      "id": 4
+      "id": 7
     },
     {
-      "name": "Остап432553",
+      "name": "Остап",
+      "number": "123",
+      "id": 8
+    },
+    {
+      "name": "Rosie Simpson213",
       "number": "",
-      "id": 5
+      "id": 9
     },
     {
-      "name": "Остап53422534",
-      "number": "123",
-      "id": 6
+      "name": "Остап234",
+      "number": "",
+      "id": 10
     }
   ]
 }
